@@ -60,7 +60,7 @@ npm install mocha --save-dev
 
 and check our `package.json`, we should see an entry for `mocha` under
 `devDependencies`. Now when we clone the package, we can just run a bare
-`npm install` from the root of the package to install _all_ if its dependencies
+`npm install` from the root of the package to install _all_ of its dependencies
 in one go.
 
 ### `npm test`
