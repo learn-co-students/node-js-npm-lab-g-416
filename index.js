@@ -1,1 +1,1 @@
-require('./lib/greeter');
+require('./lib/greet');
