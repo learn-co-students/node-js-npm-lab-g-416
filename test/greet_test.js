@@ -1,5 +1,6 @@
 const expect = require('chai').expect;
 const greet = require('../lib/greet');
+console.log(greet)
 
 describe('greet()', () => {
   it('handles all arguments at once', () => {
